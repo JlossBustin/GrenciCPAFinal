@@ -43,7 +43,7 @@ The benefit of using the program is efficiency, it has the ability to pull from 
 ----
 
 ### IMPORTANT:
-To use the program, you must change the Data Source located in the connection string in **App.config** to your SQL Server Management Studio server name.
+To use the program, you must access the dropbox download and download the source code, GrenciDB file, and GrenciBK.bak. You must then change the Data Source located in the connection string in **App.config** to your SQL Server Management Studio server name in the source code.
 
 ----
 
