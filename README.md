@@ -49,4 +49,8 @@ To use the program, you must change the Data Source located in the connection st
 
 Original repo: https://github.com/vcstahlman/GrenciCPA
 
+Dropbox Download: https://www.dropbox.com/sh/su3yul2gno0w1bd/AAD1vThpj131pASql1RzpF_ta?dl=0
+
+(includes documentation, installer, database, original client documents)
+
 Updated: 3/4/21
