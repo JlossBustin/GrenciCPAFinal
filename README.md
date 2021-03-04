@@ -2,7 +2,7 @@
 
 -----
 
-### Final Version of GrenciCPA program
+### Computer Info Systems Final Project
 ##### CIS 411
 
 *Victor Stahlman*: vicstahlman@gmail.com, *Justin Bloss*: justinbloss14@hotmail.com, *William Hoffman*: whoffman21279@gmail.com, *Cameron Weaver*: C.G.Weaver@eagle.clarion.edu
